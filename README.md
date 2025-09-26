@@ -9,3 +9,13 @@ JavaScript: 162.774 mundialmente, 2.785 en españa
 PHP: 10.278  mundialmente, 211 en españa
 VB.NET: 48 mundialmente, 1 en españa
 Ruby: 362 mundialmente, 4 en españa
+| ---- | Mundial | España |
+| Java | ------- | ------ |
+| Java | ------- | ------ |
+| Java | ------- | ------ |
+| Java | ------- | ------ |
+| Java | ------- | ------ |
+| Java | ------- | ------ |
+| Java | ------- | ------ |
+| Java | ------- | ------ |
+| Java | ------- | ------ |
