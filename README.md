@@ -7,12 +7,12 @@
 ![Java en España](https://github.com/smefrag2310/Ejercicio3-Entorno/blob/main/Captura%20de%20pantalla%202025-09-26%20191900.png)
 | Idioma | Mundial | España |
 | ------ | ------- | ------ |
-| Java | 160.101 | 2.806 |
-| Python | 161.263 | 2.843 |
-| C# | 23.447 | 317 |
-| C++ | 75.238 | 1.152 |
-| C | 1.460 | 87 |
 | JavaScript | 162.774 | 2.785 |
+| Python | 161.263 | 2.843 |
+| Java | 160.101 | 2.806 |
+| C++ | 75.238 | 1.152 |
+| C# | 23.447 | 317 |
 | PHP | 10.278 | 211 |
-| VB.NET | 48 | 1 |
+| C | 1.460 | 87 |
 | Ruby | 362 | 4 |
+| VB.NET | 48 | 1 |
