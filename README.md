@@ -2,7 +2,7 @@
 ## Demanda laboral de lenguajes de programación
 ### Analizar la demanda laboral de distintos lenguajes de programación en el mercado internacional y en España, utilizando la plataforma LinkedIn.
 **Con los filtros de jornada completa y empleo de desarrollo de software:**
-![Java mundialmente](https://github.com/smefrag2310/Ejercicio3-Entorno/blob/main/Captura%20de%20pantalla%202025-09-26%20191900.png)
+![Java en España](https://github.com/smefrag2310/Ejercicio3-Entorno/blob/main/Captura%20de%20pantalla%202025-09-26%20191900.png)
 | Idioma | Mundial | España |
 | ------ | ------- | ------ |
 | Java | 160.101 | 2.806 |
